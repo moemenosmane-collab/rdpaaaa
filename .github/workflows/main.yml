@@ -29,7 +29,7 @@ jobs:
           # ===============================
           # 🔥 PASSWORD HERE 🔥
           # ===============================
-          $password = "123456789"
+          $password = "Moemen_1234!"
           # ===============================
 
           $securePass = ConvertTo-SecureString $password -AsPlainText -Force
